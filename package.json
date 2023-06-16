@@ -1,0 +1,16 @@
+{
+  "name": "path-esm",
+  "version": "1.0.0",
+  "description": "Tree-shakeable node:path polyfill",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
